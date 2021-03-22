@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/project/pencilwith/BuildConfig.java
+ com.project.pencilwith.BuildConfig
+com/project/pencilwith/MainActivity.java
+ com.project.pencilwith.MainActivity
